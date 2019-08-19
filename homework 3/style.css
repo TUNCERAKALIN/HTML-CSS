@@ -1,0 +1,323 @@
+body {
+    background:white;
+
+}
+#ilklogo {
+    margin-left: 600px;
+    background-repeat: no-repeat;
+
+}#menu{
+    background-color:#003399;
+    
+    
+}
+#menu ul{
+    list-style-type:none;
+    
+    
+   
+}
+#menu li{
+    display: inline-block;
+    
+}
+#menu a{
+    color: white; 
+    padding:20px;
+    text-decoration: none;
+    margin: 10px;
+    margin-bottom: 0%;
+    height: 50px;
+
+}
+#menu a:hover{
+    text-decoration: underline;
+}
+#kopek{
+    color: white;
+    padding: 100 px;
+    margin-right: 250px;
+    font-size: 22px;
+
+}
+.slider{
+    width: auto;
+    height:400px;
+    background-size: cover;
+    background-image:url("images/2.jpg");
+    position: relative;
+    top: -20px;
+}
+.slider p.text{
+    position: absolute;
+    top: 0px;
+}
+.container{
+    position: absolute;
+    width: auto;
+    height: 320px;
+    background: white;
+    top: 20px;
+    left: 40px;
+
+}
+.slider .container .smalltext{
+
+    text-decoration: none;
+    font-size: 20px;
+    color: blue;
+    font-weight: bold;
+    margin-left: 5px;
+
+    
+}
+.slider .container .smalltext:hover{
+    color: #003399;
+    text-decoration: underline;
+}
+.slider .container .heading{
+    font-size: 30px;
+    margin-left: 5px;
+    top: 0px;
+}
+.slider .email{
+    position: absolute;
+    right: 30px;
+    top: 20px;
+    font-size: 30px;
+}
+#yazilardosyasi {
+    background:#ebebe0;
+    width: 1335px;
+    height:450px;
+    top: 650px;
+    position: absolute;
+    z-index: -1;
+}
+#yazilardosyasi ul{
+    list-style-type:none;
+    
+
+}
+#yazilardosyasi li{
+    float: left;
+    width: 25%;
+    font-size: 17px;
+
+}
+#yazilardosyasi .yazilar2 h3 a{
+    font-weight: bold;
+    font-size: 20px;
+    color: blue;
+
+}
+#yazilardosyasi a{
+    
+    text-decoration: none;
+    color: black;
+}
+#yazilardosyasi a:hover{
+    text-decoration: underline;
+    
+
+}
+#yazilardosyasi p:hover{
+   text-decoration: none;
+}
+#basbelasi{
+    width: 1320px;
+    height: 500px;
+    background-color: red;
+    margin-top: 470px;
+    position: relative;
+
+}
+.box{
+    width: 440px;
+    height: 500px;
+    background-color: white;
+    position: relative;
+    float: left;
+    border-bottom: 1px solid grey;
+    border-top: 1px solid grey;
+
+
+}
+.box a{
+    text-decoration: none;
+}
+.imagess{
+    margin-top: 20px;
+}
+
+}
+.box .p{
+    padding: 20px;
+}
+.box a:hover{
+   text-decoration: underline;
+}
+.kalabalik .kalabalikyazilar{
+width: 33%;
+height: auto;
+float: left;
+}
+.kalabalik .kalabalikyazilar h2{
+    color: #003399;
+    font-size: 25px;
+}
+.kalabalik .kalabalikyazilar h3{
+    color:black;
+    font-weight: bold;
+}
+.kalabalik .kalabalikyazilar p{
+    font-size: 20px;
+    color: black;
+}
+.kalabalik h1 a:hover{
+    text-decoration: underline;
+    color: black;
+}
+.kalabalik a:hover{
+    text-decoration: underline;
+}
+.kutular{
+    width: auto;
+    height: 300px;
+    position: relative;
+    text-align: center;
+
+    
+}
+.kutu{
+    width: 350px;
+    height: 230px;
+    
+    position: absolute;
+    border:2px solid grey;
+    
+
+}
+.digerkutu{
+    width: 350px;
+    height: 230px;
+    border:2px solid grey;
+    position: absolute;
+    margin-left: 400px;
+
+}
+.kutular .kutu h1{
+    margin-top: -3px;
+    color: blue;
+    font-weight: bold;
+    font-size:45px;
+
+}
+.kutular .kutu h2{
+    color: black;
+    font-size: 35px;
+}
+.kutular .digerkutu h1{
+    margin-top: -3px;
+    color: #a90061;
+    font-weight: bold;
+    font-size:45px;
+
+}
+
+
+.kutular .digerkutu h2{
+    color: black;
+    font-size: 35px;
+}
+
+
+.mavibolum{
+    width: auto;
+    height: 300px;
+    position: relative;
+    margin-top: 40px;
+}
+.mavibolum .buyukbolum{
+    width: 50%;
+    height: 350px;
+    background-color:#536EAB;
+    position: absolute;
+    float: left;
+}
+.mavibolum .kucukbolum{
+    width: 25%;
+    height: 350px;
+    background-color: #536EAB;
+    position: absolute;
+    right: 25%;
+    font-size: 14px;
+    
+}
+.mavibolum .kucukparca{
+    width: 25%;
+    height: 350px;
+    background-color: #536EAB;
+    position: absolute;
+    right: 0%;
+    font-size: 14px;
+}
+.mavibolum .kucukbolum a{
+    color: white;
+    text-decoration: none;
+    
+}
+.mavibolum .kucukbolum h2{
+    color: white;
+    margin-top: 50px;
+    
+}
+.mavibolum .kucukparca a{
+    color: white;
+    text-decoration: none;
+}
+.mavibolum .kucukparca h2{
+    color: white;
+    margin-top: 50px;
+    
+}
+.mavibolum .buyukbolum h1{
+color: white;
+font-size: 30px;
+font-weight: 300;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+margin-top: 50px;
+
+}
+.mavibolum .kucukbolum a:hover{
+    text-decoration: underline;
+}
+.mavibolum .kucukparca a:hover{
+    text-decoration: underline;
+}
+.sonnokta{
+    background: pink;
+}
+.sonnokta ul{
+    margin-top: 100px;
+    list-style: none;
+    float: left;
+    margin-left: 400px;
+}
+.sonnokta li{
+    display: inline-block;
+ 
+
+}
+.sonnokta li a{
+    text-decoration: none;
+    padding: 15px;
+    border: 1px solid #3195FA;
+    margin: 8px;
+    color: #3195FA;
+}
+#ulke{
+    font-weight: bold;
+    color: black
+}
